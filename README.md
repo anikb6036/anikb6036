@@ -62,12 +62,10 @@ I specialize in designing and executing robust test scenarios to ensure software
 - Documented detailed issue reports with reproduction steps.
 - Worked collaboratively with developers to resolve bugs promptly, improving software reliability.
 
-### 3. **Qicpic Project**
-- **GitHub Repo:** [Link](https://github.com/anikb6036/Qicpic.git)
-
 ### 4. **Project CAT-105-B41**
 - **GitHub Repo:** [Link](https://github.com/anikb6036/project-CAT-105-B41.git)
-
+- This project automates testing for the OrangeHRM Website using Cypress to ensure high-quality standards in functionality, usability, performance, and security. navigation, UI validations, error handling, and performance across devices.
+- The project follows a structured approach with test plans and scripts.
 ---
 
 ## 📖 Additional Information
