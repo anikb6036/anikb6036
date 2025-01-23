@@ -57,7 +57,7 @@ I specialize in designing and executing robust test scenarios to ensure software
 - Executed cross-browser and cross-device testing to ensure compatibility.
 
 ### 2. **Cypress Automation - OrangeHRM**
-- **GitHub Repo:** [Link](https://github.com/anikb6036)
+- **GitHub Repo:** [Link](https://github.com/anikb6036/project-CAT-105-B41.git)
 - Designed comprehensive test scenarios using Cypress and POM methodology.
 - Documented detailed issue reports with reproduction steps.
 - Worked collaboratively with developers to resolve bugs promptly, improving software reliability.
