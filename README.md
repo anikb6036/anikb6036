@@ -16,8 +16,8 @@ Welcome to my professional repository. I am a detail-oriented Software Developme
 
 ## 🎓 Education
 
-- **12th Grade** - Shimulpur Narahari High School (Feb 2021 - Mar 2022)
 - **SDET Certification** - Masai School (June 2024 - Present)
+- **12th Grade** - Shimulpur Narahari High School (Feb 2021 - Mar 2022)
 
 ---
 
