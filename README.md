@@ -11,7 +11,7 @@ Welcome to my professional repository. I am a detail-oriented Software Developme
 - **Location:** Kolkata, India
 - **GitHub:** [anikb6036](https://github.com/anikb6036)
 - **LinkedIn:** [anikbaidya2003](https://www.linkedin.com/in/anikbaidya2003)
-- **Resume:** [Click here](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6791f89a565a02c8ebebaaa5)
+- **Resume:** [Click here](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6813721e577a628cae41f85a)
 ---
 
 ## 🎓 Education
